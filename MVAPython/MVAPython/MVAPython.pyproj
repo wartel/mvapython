@@ -28,6 +28,9 @@
     <Compile Include="challenge3.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="shoppingdiscount.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="MVAPython.py" />
   </ItemGroup>
   <PropertyGroup>
