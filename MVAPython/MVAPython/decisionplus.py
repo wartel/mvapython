@@ -1,4 +1,4 @@
-team=input("Enter your favorite hockey team").upper()
+team=input("Enter your favorite hockey team: ").upper()
 
 if team == "SENATORS":
     print("Go Sens Go!")
