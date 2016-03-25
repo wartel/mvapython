@@ -22,10 +22,10 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="module1.py">
+    <Compile Include="challenge1.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="module2.py">
+    <Compile Include="challenge3.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="MVAPython.py" />
